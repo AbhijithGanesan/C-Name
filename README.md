@@ -1,2 +1,2 @@
-# C-Name
-Task for Google Code-in 2019
+# C Nanem
+C program that prints a string with a makefile to compile and run it
